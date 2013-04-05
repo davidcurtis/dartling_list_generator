@@ -1,5 +1,7 @@
 name: dartling_list_generator
+author: David Curtis
 description: A sample command-line application
+homepage: https://curtisdavid.blogspot.ca
 
 #dependencies:
 #  unittest: any
